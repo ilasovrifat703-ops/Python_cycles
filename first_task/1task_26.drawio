@@ -1,6 +1,6 @@
 <mxfile host="Electron">
   <diagram name="Страница-1" id="Mn3fg0tLnVBgYA60HNHd">
-    <mxGraphModel dx="1698" dy="1204" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1334" dy="946" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -133,7 +133,7 @@
             <mxPoint x="670" y="1090" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="pO5jrw6G9qwlzyiUkry2-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="y = 2" vertex="1">
+        <mxCell id="pO5jrw6G9qwlzyiUkry2-23" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="y = 2 - x_st" vertex="1">
           <mxGeometry height="80" width="120" x="530" y="1120" as="geometry" />
         </mxCell>
         <mxCell id="pO5jrw6G9qwlzyiUkry2-30" edge="1" parent="1" source="pO5jrw6G9qwlzyiUkry2-24" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;">
@@ -166,7 +166,7 @@
         <mxCell id="1uKDfq9UAxdrj8CoNrBe-5" edge="1" parent="1" source="1uKDfq9UAxdrj8CoNrBe-2" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=none;endFill=0;" target="pO5jrw6G9qwlzyiUkry2-5">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="1uKDfq9UAxdrj8CoNrBe-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="вывод x|y" vertex="1">
+        <mxCell id="1uKDfq9UAxdrj8CoNrBe-2" parent="1" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;shapeInside=1;fixedSize=1;" value="вывод x&amp;nbsp; |&amp;nbsp; y" vertex="1">
           <mxGeometry height="80" width="120" x="350" y="400" as="geometry" />
         </mxCell>
         <mxCell id="1uKDfq9UAxdrj8CoNrBe-6" parent="1" style="rounded=0;whiteSpace=wrap;html=1;" value="x_st = x_st + dx" vertex="1">
